@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+.App {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+  overflow-y: hidden;
+  background: linear-gradient(#5066c9, #f01f29);
+
+
+}
+
+*{
+
+}
+
